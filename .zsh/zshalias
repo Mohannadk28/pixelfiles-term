@@ -1,0 +1,6 @@
+# EXA
+alias ls='exa --long --header --git --icons'
+alias la='exa --long --header --git --icons -a'
+
+# rust tools
+alias cat='bat'
