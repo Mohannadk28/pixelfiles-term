@@ -122,10 +122,10 @@ provides libgconf-2.so.4
 sudo dnf search gconf
 sudo dnf in GConf2.x86_64
 touch .config/Messenger\ for\ Desktop/prefs.json
-clear
 nano .config/Messenger\ for\ Desktop/prefs.json
 messengerfordesktop
 ./Caprine-2.56.1.AppImage
 sudo dnf copr enable dusansimic/caprine\
 sudo dnf install caprine
+clear
 exit
