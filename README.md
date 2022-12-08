@@ -17,14 +17,14 @@ mkdir -p ~/.pixelfiles
 git clone --recurse-submodules --remote-submodules --depth=1 https://github.com/mohannadk28/pixelfiles-term ~/.pixelfiles/pixelfiles-term
 ```
 
-3. allow `setup-desktop.sh` to execute
+3. allow `setup-term.sh` to execute
 ```sh
-chmod +x setup-desktop.sh
+chmod +x setup-term.sh
 ```
 
-4. run `setup-desktop.sh`
+4. run `setup-term.sh`
 ```sh
-sh setup-desktop
+sh setup-term.sh
 ```
 
 5. Change your Shell to `zsh`
