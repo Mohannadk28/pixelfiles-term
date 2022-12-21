@@ -1,6 +1,12 @@
-# EXA
+# Rust Tools 
+
+## exa
 alias ls='exa --long --header --git --icons'
 alias la='exa --long --header --git --icons -a'
 
-# rust tools
+## bat
 alias cat='bat'
+
+# Useful Aliass
+alias mkdir='mkdir -p'
+alias youtube-dl='yt-dlp'
