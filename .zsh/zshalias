@@ -10,3 +10,6 @@ alias cat='bat'
 # Useful Aliass
 alias mkdir='mkdir -p'
 alias youtube-dl='yt-dlp'
+
+# Shotcuts
+alias cl='clear'
